@@ -1,22 +1,23 @@
 
-# Modelado de Sistemas Fisiológicos. Práctica 1: Diseño de controladores [Valle05211261]
+# Modelado de Sistemas Fisiológicos. Práctica 1: Diseño de controladores [Juarez22210417]
 
 ## Autor
-Nombre completo
+Angel Eduardo Juarez Salazar
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: correo@tectijuana.edu.mx
 
 ## Objetivos general
-Diseñar un controlador que permita eliminar el error entre la entrada [Ve(t)] y la salida [Vs(t)] de un circuito RLC de segundo orden.
+Diseñar un controlador que permita formular un protocolo de tratamiento para que un paciente con efisema (caso) presente la misma presion alveolar que in individuo sano (control)
 
 ## Actividades
-1. Calcular analíticamente la función de transferencia del sistema.
-2. Establecer el modelo de ecuaciones integro-diferenciales.
+1. Calcular analiticamente la funcion de transferencia del sistema pulmonar 
+2. Establecer el modelo de ecuaciones integro-diferenciales
 3. Determinar el error en estado estacionario y la estabilidad del sistema en lazo abierto.
-4. Diseñar el controlador con Simulink utilizando el bloque PID Controller y la herramienta Tune para sintonizar los valores óptimos para cada una de las ganancias kP, kI y kD.
-5. Determinar la respuesta al escalón, impulso, rampa unitaria y a la función sinusoidal [u(t)=sinωt | ω=250 mHz=π/2 rad/s] en el intervalo t∈[0,10] (segundos), en Python, Simulink y Multisim del circuito RLC.
-6.Construir los circuitos en protoboard para comprobar los resultados obtenidos en la experimentación in silico.
-
+4. Construir el diagrama de bloques como se indica en la figura 5.4
+5. Determinar la respuesta a la funcion sinusoidal [ u(t)=Asinwt] en el intervalo [0,30] (segundos) en Pyhton, Simulink y Multisim
+6.Elaborar el diagrama biologico del sistema con Biorender.com
+7. Discutir los resultados obtenidos en la experimentacion in silico y elaborar el reoprte de la practica
+   
 ## Docente
 Dr. Paul A. Valle
 
