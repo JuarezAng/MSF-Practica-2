@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Software
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Angel Eduardo
+    family-names: Juarez Salazar
+    email: L22210417@tectijuana.edu.mx
+  - given-names: Celia Lizette
+    family-names: Hernandez Ruiz
+    email: L22210415@tectijuana.edu.mx
+repository-code: 'https://github.com/JuarezAng/MSF-Practica-2'
+keywords:
+  - 'Mecanica pulmonar '
+  - Controlador PID
+  - Sistema de control
+  - Funcion de transferencia
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-03-28'
