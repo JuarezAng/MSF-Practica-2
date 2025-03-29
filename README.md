@@ -1,5 +1,5 @@
 
-# Modelado de Sistemas Fisiológicos. Práctica 1: Diseño de controladores [Juarez22210417]
+# Modelado de Sistemas Fisiológicos. Práctica 2: Mecanica pulmonar [Juarez22210417]
 
 ## Autor
 Angel Eduardo Juarez Salazar
